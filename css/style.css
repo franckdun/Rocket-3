@@ -1,0 +1,20 @@
+body {
+    background-color: hsla(242, 39%, 17%, 1.00);
+    height: 100vh;
+    width: 100vw;
+}
+
+.o-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.c-rocket {
+    width: 200px;
+}
+
+.c-rocket__flame {
+    transform-origin: 20% 20%;
+}
